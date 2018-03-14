@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kinect_Boid_System_Final", "Kinect_Boid_System_Final\Kinect_Boid_System_Final.pyproj", "{2AD3FD4D-A5CE-4955-B23B-64F59B85D1A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD3FD4D-A5CE-4955-B23B-64F59B85D1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD3FD4D-A5CE-4955-B23B-64F59B85D1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E66312E-0377-4E69-A26F-15EF622D6F19}
+	EndGlobalSection
+EndGlobal
