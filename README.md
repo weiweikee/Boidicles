@@ -1,6 +1,4 @@
 # Boidicles
-
-## README
 	
 BOIDICLES is a Kinect-Based Boid Simulation and Drawing Tool. 
 It is an tool that help user explore a basic bond system and create interesting visual effects. 
